@@ -2,7 +2,7 @@
 
 clone using following Steps\
 STEP 1\
-Git clone https://github.com/Aditya0049/WeatherApp/\
+Git clone https://github.com/Aditya0049/WeatherApp/
 STEP 2\
 then insert command 'npm install'\
 STEP 3\
